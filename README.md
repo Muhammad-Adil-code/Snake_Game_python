@@ -34,7 +34,7 @@ This is a simple Snake game built using Python's Tkinter module. The player cont
 - Your high score is updated when you surpass your previous best score.
 
 ## Screenshot
-(Add a screenshot of the game here if needed)
+![alt text](image.png)
 
 ## License
 This project is open-source and free to use for educational purposes.
